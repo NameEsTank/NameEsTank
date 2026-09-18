@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 I'm Tank/Ayden, a student and aspiring developer based in the United States.  
-I'm currently learning Java and Python, with hopes to add more career relevant languages to my arsenal as I figure it out
+I'm currently learning Java and Python (hoping to add more!!)  
+
 
 
 <!--
